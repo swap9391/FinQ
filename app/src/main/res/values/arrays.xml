@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="random_imgs">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+    </integer-array>
+
+
+    <integer-array name="random_text">
+        <item>@string/adventure</item>
+        <item>@string/sports</item>
+        <item>@string/music</item>
+        <item>@string/movie</item>
+        <item>@string/dance</item>
+        <item>@string/comedy</item>
+        <item>@string/culture</item>
+        <item>@string/travel</item>
+        <item>@string/romance</item>
+        <item>@string/education</item>
+    </integer-array>
+
+</resources>
