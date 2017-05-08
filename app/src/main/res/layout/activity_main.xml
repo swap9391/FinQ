@@ -16,7 +16,6 @@
         android:orientation="vertical">
 
         <include
-            android:id="@+id/toolbar"
             layout="@layout/toolbar"></include>
     </LinearLayout>
 
@@ -28,6 +27,7 @@
         android:background="?android:attr/windowBackground"
         app:itemIconTint="@drawable/bottom_selector"
         app:itemTextColor="@drawable/bottom_selector"
-        app:menu="@menu/navigation" />
+        app:menu="@menu/navigation"
+        />
 
 </RelativeLayout>

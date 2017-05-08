@@ -3,6 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
 
     <string name="sports">Sports</string>
     <string name="culture">Culture</string>
@@ -14,7 +15,5 @@
     <string name="education">Education</string>
     <string name="romance">Romance</string>
     <string name="comedy">Comedy</string>
-
-
 
 </resources>
